@@ -4,3 +4,4 @@ Accenture coding round Cheatsheet
 3.Check if a String is a Palindrome: Write a function that checks if a given stringreads the same backward as forward.
 4.Find the Missing Number in an Array: Given an array of consecutive integerswith one missing element, write a function to find the missing number.
 5. Find the Intersection of Two Arrays: Write a function that finds the elements present in both a given pair of arrays.
+6.Remove Duplicates from an Array: Write a function that removes duplicate elements from a given array while preserving the order.
