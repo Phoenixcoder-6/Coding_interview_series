@@ -3,3 +3,4 @@ Accenture coding round Cheatsheet
 2. Find the Maximum Element in an Array: Write a function that finds the maximum element in a given array of integers.
 3.Check if a String is a Palindrome: Write a function that checks if a given stringreads the same backward as forward.
 4.Find the Missing Number in an Array: Given an array of consecutive integerswith one missing element, write a function to find the missing number.
+5. Find the Intersection of Two Arrays: Write a function that finds the elements present in both a given pair of arrays.
