@@ -1,8 +1,10 @@
 Accenture coding round Cheatsheet
-1. Reverse a String: Write a function that reverses a given string.
-2. Find the Maximum Element in an Array: Write a function that finds the maximum element in a given array of integers.
+1.Reverse a String: Write a function that reverses a given string.
+2.Find the Maximum Element in an Array: Write a function that finds the maximum element in a given array of integers.
 3.Check if a String is a Palindrome: Write a function that checks if a given stringreads the same backward as forward.
 4.Find the Missing Number in an Array: Given an array of consecutive integerswith one missing element, write a function to find the missing number.
-5. Find the Intersection of Two Arrays: Write a function that finds the elements present in both a given pair of arrays.
+5.Find the Intersection of Two Arrays: Write a function that finds the elements present in both a given pair of arrays.
 6.Remove Duplicates from an Array: Write a function that removes duplicate elements from a given array while preserving the order.
-7. Count the Occurrence of Each Element in an Array: Write a function that counts the number of times each element appears in a given array
+7.Count the Occurrence of Each Element in an Array: Write a function that counts the number of times each element appears in a given array.
+8.Find the Second Largest Element in an Array Write a function that finds the second largest element in a given array.
+
