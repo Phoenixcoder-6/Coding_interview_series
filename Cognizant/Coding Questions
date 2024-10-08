@@ -44,4 +44,5 @@ Solve the Activity Selection problem: Given start and end times, select the maxi
 Implement a stack using two queues (or vice versa).
 Find the longest substring without repeating characters.
 Find the maximum product of two integers in an array.
+Given a matrix, find the transpose of the matrix.
 
