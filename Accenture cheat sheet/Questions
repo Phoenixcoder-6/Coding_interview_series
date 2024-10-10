@@ -8,4 +8,5 @@ Accenture coding round Cheatsheet
 7.Count the Occurrence of Each Element in an Array: Write a function that counts the number of times each element appears in a given array.
 8.Find the Second Largest Element in an Array Write a function that finds the second largest element in a given array.
 9.Merge Two Sorted Arrays: Write a function that merges two sorted arrays into a single sorted array.
+10.Find the Length of the Longest Substring Without Repeating Characters: Write a function that finds the length of the longest substring in a string where all characters are unique.
 
