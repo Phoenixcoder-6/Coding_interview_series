@@ -1,6 +1,6 @@
 **Array and String Manipulation**
 1. Find the largest subarray sum (Kadane's algorithm).
-Rotate an array to the right or left by a given number of steps.
+2. Rotate an array to the right or left by a given number of steps.
 Merge two sorted arrays without using extra space.
 Check if a given string is a palindrome.
 Find the first non-repeating character in a string.
