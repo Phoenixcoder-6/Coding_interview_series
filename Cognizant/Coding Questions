@@ -2,7 +2,7 @@
 1. Find the largest subarray sum (Kadane's algorithm).
 2. Rotate an array to the right or left by a given number of steps.
 3. Merge two sorted arrays without using extra space.
-Check if a given string is a palindrome.
+4. Check if a given string is a palindrome.
 Find the first non-repeating character in a string.
 Implement an algorithm to remove duplicates from a sorted array.
 2. Sorting and Searching
