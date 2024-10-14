@@ -5,7 +5,7 @@
 4. Check if a given string is a palindrome.
 5. Find the first non-repeating character in a string.
 6. Implement an algorithm to remove duplicates from a sorted array.
-2. Sorting and Searching
+**Sorting and Searching**
 Implement binary search on a sorted array.
 Sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
 Find the kth largest or smallest element in an unsorted array.
