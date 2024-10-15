@@ -9,7 +9,7 @@
 1. Implement binary search on a sorted array.
 2. Sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
 3. Find the kth largest or smallest element in an unsorted array.
-Given an unsorted array of integers, find all pairs with a given sum.
+4. Given an unsorted array of integers, find all pairs with a given sum.
 3. Linked Lists
 Reverse a linked list (both iterative and recursive solutions).
 Find the middle element of a singly linked list.
