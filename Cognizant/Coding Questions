@@ -10,7 +10,8 @@
 2. Sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
 3. Find the kth largest or smallest element in an unsorted array.
 4. Given an unsorted array of integers, find all pairs with a given sum.
-3. Linked Lists
+**Linked Lists**
+1. create linked list and print it.
 Reverse a linked list (both iterative and recursive solutions).
 Find the middle element of a singly linked list.
 Detect a cycle in a linked list and find the starting point of the cycle (Floyd’s Cycle Detection Algorithm).
