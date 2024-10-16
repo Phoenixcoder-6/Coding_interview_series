@@ -12,8 +12,9 @@
 4. Given an unsorted array of integers, find all pairs with a given sum.
 **Linked Lists**
 1. create linked list and print it.
+2. Find the middle element of a singly linked list.
 Reverse a linked list (both iterative and recursive solutions).
-Find the middle element of a singly linked list.
+
 Detect a cycle in a linked list and find the starting point of the cycle (Floyd’s Cycle Detection Algorithm).
 Merge two sorted linked lists.
 4. Dynamic Programming
