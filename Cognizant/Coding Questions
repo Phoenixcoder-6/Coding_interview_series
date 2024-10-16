@@ -13,10 +13,10 @@
 **Linked Lists**
 1. create linked list and print it.
 2. Find the middle element of a singly linked list.
+3. Merge two sorted linked lists.
 Reverse a linked list (both iterative and recursive solutions).
 
 Detect a cycle in a linked list and find the starting point of the cycle (Floyd’s Cycle Detection Algorithm).
-Merge two sorted linked lists.
 4. Dynamic Programming
 Solve the 0/1 Knapsack problem.
 Find the length of the longest common subsequence between two strings.
