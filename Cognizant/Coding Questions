@@ -15,8 +15,7 @@
 2. Find the middle element of a singly linked list.
 3. Merge two sorted linked lists.
 4. Reverse a linked list (Iterative solutions).
-
-Detect a cycle in a linked list and find the starting point of the cycle (Floyd’s Cycle Detection Algorithm).
+5. Detect a cycle in a linked list and find the starting point of the cycle (Floyd’s Cycle Detection Algorithm).
 4. Dynamic Programming
 Solve the 0/1 Knapsack problem.
 Find the length of the longest common subsequence between two strings.
