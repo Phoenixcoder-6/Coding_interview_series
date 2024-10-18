@@ -5,6 +5,7 @@
 4. Check if a given string is a palindrome.
 5. Find the first non-repeating character in a string.
 6. Implement an algorithm to remove duplicates from a sorted array.
+7. Fibonacci Series.
 **Sorting and Searching**
 1. Implement binary search on a sorted array.
 2. Sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
