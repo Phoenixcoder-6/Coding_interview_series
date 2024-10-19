@@ -17,7 +17,7 @@
 3. Merge two sorted linked lists.
 4. Reverse a linked list (Iterative solutions).
 5. Detect a cycle in a linked list and find the starting point of the cycle (Floyd’s Cycle Detection Algorithm).
-4. Dynamic Programming
+**Dynamic Programming**
 Solve the 0/1 Knapsack problem.
 Find the length of the longest common subsequence between two strings.
 Find the longest increasing subsequence in an array.
