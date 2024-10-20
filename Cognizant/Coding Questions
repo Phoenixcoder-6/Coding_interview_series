@@ -1,4 +1,5 @@
 **Array and String Manipulation**
+
 1. Find the largest subarray sum (Kadane's algorithm).
 2. Rotate an array to the right or left by a given number of steps.
 3. Merge two sorted arrays without using extra space.
@@ -6,47 +7,65 @@
 5. Find the first non-repeating character in a string.
 6. Implement an algorithm to remove duplicates from a sorted array.
 7. Fibonacci Series.
+
 **Sorting and Searching**
+
 1. Implement binary search on a sorted array.
 2. Sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
 3. Find the kth largest or smallest element in an unsorted array.
 4. Given an unsorted array of integers, find all pairs with a given sum.
+
 **Linked Lists**
+
 1. create linked list and print it.
 2. Find the middle element of a singly linked list.
 3. Merge two sorted linked lists.
 4. Reverse a linked list (Iterative solutions).
 5. Detect a cycle in a linked list and find the starting point of the cycle (Floyd’s Cycle Detection Algorithm).
+
 **Dynamic Programming**
+
 Solve the 0/1 Knapsack problem.
 Find the length of the longest common subsequence between two strings.
 Find the longest increasing subsequence in an array.
 Solve the coin change problem: Given a set of coins, find the minimum number of coins required to make a specific amount.
-5. Recursion and Backtracking
+
+**Recursion and Backtracking**
+
 Solve the N-Queens problem: Place N queens on an NxN chessboard.
 Generate all valid combinations of parentheses for a given number n.
 Solve the Sudoku puzzle using backtracking.
 Find all possible permutations of a string or array.
-6. Tree and Graph Algorithms
+
+**Tree and Graph Algorithms**
+
 Implement inorder, preorder, and postorder traversals of a binary tree.
 Find the lowest common ancestor (LCA) of two nodes in a binary tree.
 Determine if a binary tree is height-balanced.
 Perform a breadth-first search (BFS) and depth-first search (DFS) on a graph.
 Find the shortest path in an unweighted graph (BFS).
-7. Mathematical and Bit Manipulation
+
+**Mathematical and Bit Manipulation**
+
 Find the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
 Check if a number is a prime number.
 Count the number of set bits (1s) in an integer’s binary representation.
 Swap two numbers without using a third variable.
 Find the missing number in a sequence of integers from 1 to n.
-8. Greedy Algorithms
+Write a program to calculate the fuel consumption of your truck.The program should ask the user to enter the quantity of diesel to fill up the tank and the distance covered till the tank goes dry.Calculate the fuel consumption and display it in the format (liters per 100 kilometers).
+
+**Greedy Algorithms**
+
 Find the minimum number of coins required to make a certain amount (Coin Change problem).
 Solve the Activity Selection problem: Given start and end times, select the maximum number of non-overlapping activities.
-9. Miscellaneous
+
+**Miscellaneous**
+
 Implement a stack using two queues (or vice versa).
 Find the longest substring without repeating characters.
 Find the maximum product of two integers in an array.
 Given a matrix, find the transpose of the matrix.
+
 
 
 
