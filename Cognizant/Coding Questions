@@ -27,8 +27,8 @@
 
 1. Solve the 0/1 Knapsack problem.
 2. Find the length of the longest common subsequence between two strings.
-Find the longest increasing subsequence in an array.
-Solve the coin change problem: Given a set of coins, find the minimum number of coins required to make a specific amount.
+3. Find the longest increasing subsequence in an array.
+4. Solve the coin change problem: Given a set of coins, find the minimum number of coins required to make a specific amount.
 
 **Recursion and Backtracking**
 
