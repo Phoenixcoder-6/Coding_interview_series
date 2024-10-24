@@ -32,8 +32,7 @@
 
 **Recursion and Backtracking**
 
-Solve the N-Queens problem: Place N queens on an NxN chessboard.
-Generate all valid combinations of parentheses for a given number n.
+1. Solve the N-Queens problem: Place N queens on an NxN chessboardGenerate all valid combinations of parentheses for a given number n.
 Solve the Sudoku puzzle using backtracking.
 Find all possible permutations of a string or array.
 
