@@ -59,7 +59,7 @@ Find the missing number in a sequence of integers from 1 to n.
 
 **Greedy Algorithms**
 
-Find the minimum number of coins required to make a certain amount (Coin Change problem).
+1. Find the minimum number of coins required to make a certain amount (Coin Change problem).
 Solve the Activity Selection problem: Given start and end times, select the maximum number of non-overlapping activities.
 
 **Miscellaneous**
