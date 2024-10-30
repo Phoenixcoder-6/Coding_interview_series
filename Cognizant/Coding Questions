@@ -35,7 +35,7 @@
 
 1. Solve the N-Queens problem: Place N queens on an NxN chessboardGenerate all valid combinations of parentheses for a given number n.
 2. Solve the Sudoku puzzle using backtracking.
-Find all possible permutations of a string or array.
+3. Find all possible permutations of a string or array.
 
 **Tree and Graph Algorithms**
 
