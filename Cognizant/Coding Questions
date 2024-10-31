@@ -40,7 +40,7 @@
 **Tree and Graph Algorithms**
 
 1. Implement inorder, preorder, and postorder traversals of a binary tree.
-Find the lowest common ancestor (LCA) of two nodes in a binary tree.
+2. Find the lowest common ancestor (LCA) of two nodes in a binary tree.
 Determine if a binary tree is height-balanced.
 Perform a breadth-first search (BFS) and depth-first search (DFS) on a graph.
 Find the shortest path in an unweighted graph (BFS).
