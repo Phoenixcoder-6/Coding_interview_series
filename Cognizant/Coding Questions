@@ -31,43 +31,14 @@
 3. Find the longest increasing subsequence in an array.
 4. Solve the coin change problem: Given a set of coins, find the minimum number of coins required to make a specific amount.
 
-**Recursion and Backtracking**
-
-1. Solve the N-Queens problem: Place N queens on an NxN chessboardGenerate all valid combinations of parentheses for a given number n.
-2. Solve the Sudoku puzzle using backtracking.
-3. Find all possible permutations of a string or array.
-
-**Tree and Graph Algorithms**
-
-1. Implement inorder, preorder, and postorder traversals of a binary tree.
-2. Find the lowest common ancestor (LCA) of two nodes in a binary tree.
-Determine if a binary tree is height-balanced.
-Perform a breadth-first search (BFS) and depth-first search (DFS) on a graph.
-Find the shortest path in an unweighted graph (BFS).
 
 **Mathematical and Bit Manipulation**
 
-Find the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
-Check if a number is a prime number.
-Count the number of set bits (1s) in an integer’s binary representation.
-Swap two numbers without using a third variable.
-Find the missing number in a sequence of integers from 1 to n.
-6. Write a program to calculate the fuel consumption of your truck.The program should ask the user to enter the quantity of diesel to fill up the tank and the distance covered till the tank goes dry.Calculate the fuel consumption and display it in the format (liters per 100 kilometers).
-7. A person went to a movie with his friends in a Wave theatre and during break time he bought pizzas, puffs and cool drinks. Consider the following prices :Rs.100/pizza, Rs.20/puffs ,Rs.10/cooldrink. Generate a bill for What the person has bought.
-8. write a python program where 65,66,67,68 are entered, the alphabet ABCD are to be displayed.
-9. Write a program to help the college determine which department secured the highest number of placements.
+1. Write a program to calculate the fuel consumption of your truck.The program should ask the user to enter the quantity of diesel to fill up the tank and the distance covered till the tank goes dry.Calculate the fuel consumption and display it in the format (liters per 100 kilometers).
+2. A person went to a movie with his friends in a Wave theatre and during break time he bought pizzas, puffs and cool drinks. Consider the following prices :Rs.100/pizza, Rs.20/puffs ,Rs.10/cooldrink. Generate a bill for What the person has bought.
+3. write a python program where 65,66,67,68 are entered, the alphabet ABCD are to be displayed.
+4. Write a program to help the college determine which department secured the highest number of placements.
 
-**Greedy Algorithms**
-
-1. Find the minimum number of coins required to make a certain amount (Coin Change problem).
-Solve the Activity Selection problem: Given start and end times, select the maximum number of non-overlapping activities.
-
-**Miscellaneous**
-
-Implement a stack using two queues (or vice versa).
-Find the longest substring without repeating characters.
-Find the maximum product of two integers in an array.
-Given a matrix, find the transpose of the matrix.
 
 
 
