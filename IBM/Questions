@@ -1,3 +1,4 @@
 1. String Compression.  => aacc-> a2c2
 2. Reverse words in a sentence.
 3. Check if two strings are anagrams or not.
+4. Find the first non-repeating character in a string
