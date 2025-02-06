@@ -7,5 +7,6 @@
 7. Find the kth smallest element in an array (QuickSelect / Sorting)
 8. Merge two sorted arrays without extra space(Using Gap Method)
 9. Sort an array of 0s, 1s, and 2s (Dutch National Flag problem)
-10. Find the missing number in an array of size N-1
-11. Find the majority element in an array (Appears more than n/2 times)
+10. Find the missing number in an array of size N-1.
+11. Find the majority element in an array (Appears more than n/2 times).
+12. Generate all permutations of a string.
