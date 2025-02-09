@@ -6,3 +6,4 @@
 6. Perform Linear Search
 7. Perform Binary Search.
 8. Modify Linear Search to return all occurrences of an element in an array.
+9. Given an array, count how many times a target element appears using Linear Search.
