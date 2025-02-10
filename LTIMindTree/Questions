@@ -9,3 +9,4 @@
 9. Given an array, count how many times a target element appears using Linear Search.
 10. Implement Linear Search on a list of strings to find a specific word.
 11. Modify Linear Search to search from the end instead of the beginning.
+12. Given an unsorted array with duplicates, find the first occurrence of an element using Linear Search.
