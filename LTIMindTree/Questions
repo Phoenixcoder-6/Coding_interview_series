@@ -11,4 +11,5 @@
 11. Modify Linear Search to search from the end instead of the beginning.
 12. Given an unsorted array with duplicates, find the first occurrence of an element using Linear Search.
 13. Bubble Sort.
-14. Bubble Sort in Descending Order
+14. Bubble Sort in Descending Order.
+15. Counting Swaps in Bubble Sort
