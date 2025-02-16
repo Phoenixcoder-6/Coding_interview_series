@@ -25,3 +25,6 @@
 25. Find the median of two sorted array.
 26. Search element in a rotated array.
 27. Count nodes of a binary tree.
+28. You are given an odd number in the form of a string, ‘S.’ Your goal is to convert the number into an even number such that the following two conditions are satisfied.
+You can use swap operation over any two indices i,e you can choose two indices 'i' and 'j' and swap the digits present at S[i] and S[j]. But this operation can be used only once.
+Your final even number should be the largest out of all other possible even numbers.
