@@ -16,3 +16,4 @@ arr=[3,54,23,12,8,56]
 res= second_smallest(arr)
 print(res)
 
+.
