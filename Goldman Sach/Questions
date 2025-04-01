@@ -1,5 +1,5 @@
 1. Move all zeros to end of array.
 2. Move all non-zero numbers at the end of the array.
 3. Find the maximum subarray sum(Kadane's algorithm).
-4.
+4. Given an m x n matrix, if an element is 0, set its entire row and column to 0. You must do this in place, without using extra space beyond a constant amount.
 5.
