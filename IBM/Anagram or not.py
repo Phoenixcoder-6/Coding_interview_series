@@ -5,4 +5,7 @@ def anagram(s,a):
         return("Not Anagram")
     
 res= anagram("Silent","Listen")
+
 print(res)
+. 
+. 
