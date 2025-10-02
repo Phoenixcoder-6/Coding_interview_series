@@ -1,2 +1,3 @@
 ## Bit Manipulation:
 1. Given a positive integer n. Your task is to return the count of set bits.
+2. Find the two non-repeating elements in an array.
