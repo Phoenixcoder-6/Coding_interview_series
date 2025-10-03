@@ -5,4 +5,6 @@ def rotation(arr,steps):
 
 arr=[1,2,3,4,5,6]
 result= rotation(arr,3)
+
 print(result)
+.
