@@ -10,3 +10,7 @@ def occurance(input_string):
 
 occurrences = occurance(input_string)
 print(occurrences)
+.
+.
+.
+
