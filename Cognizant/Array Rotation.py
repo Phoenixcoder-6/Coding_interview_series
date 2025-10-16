@@ -9,4 +9,6 @@ result= rotation(arr,3)
 print(result)
 .
 .
+.
+.
 
