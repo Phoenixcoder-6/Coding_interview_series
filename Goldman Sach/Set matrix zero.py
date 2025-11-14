@@ -42,7 +42,11 @@ def setzeroes(matrix):
 
 arr=[[1,0,1],[1,1,1],[1,1,1]]
 print(setzeroes(arr))
+.
+.
+.
 
 
 
     
+
