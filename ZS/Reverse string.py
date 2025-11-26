@@ -3,4 +3,7 @@ def reverse(s):
 
 s=" I am a good bitch"
 res= reverse(s)
+
 print(res)
+.
+.
